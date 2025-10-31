@@ -1,0 +1,19 @@
+# Puzzles & Survival Bot Dependencies
+
+# GUI Automation
+pyautogui>=0.9.54
+PyGetWindow>=0.0.9
+
+# OCR (Optical Character Recognition)
+pytesseract>=0.3.10
+
+# Image processing (required by pyautogui)
+Pillow>=10.0.0
+
+# Mouse and keyboard control (pyautogui dependencies)
+pymsgbox>=1.0.9
+PyTweening>=1.0.7
+pyscreeze>=0.1.30
+
+# Optional: Environment variable management
+python-dotenv>=1.0.0
